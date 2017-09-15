@@ -8,5 +8,9 @@ html {
   right: 120px;
 }
 
-/* Write your solution here */
+@media only screen and (min-width: 440px, max-width: 1180px) {
+  #monkey {
+    top: 0;
+  }
+}
 
